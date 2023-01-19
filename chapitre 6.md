@@ -19,4 +19,5 @@ Le Large Synoptic Survey Telescope (LSST) et le James Webb Space Telescope (JWST
 
 6. Science citoyenne et engagement du public : le Big Data en astronomie permettent également d'impliquer les citoyens dans la recherche scientifique par le biais de projets de science citoyenne, tels que « Galaxy Zoo », où les membres du public peuvent aider à classer les images de galaxies.
 
+
 En résumé, en voyant les exemples précédents on peut voir la manière dont le Big Data a impacté largement le domaine de l'astronomie. Les avancées technologiques génèrent continuellement de nouvelles données et de nouvelles opportunités de découverte, faisant du Big Data un outil de plus en plus important pour la recherche astronomique moderne.
