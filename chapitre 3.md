@@ -28,4 +28,4 @@ A un niveau d'analyse supérieur, les astronomes dressent des catalogues des pro
 ![](star_catalog.png)
 
 
-**Exemple de données de type catalogue d'une étoile** : [Source](https://www.stsci.edu/hst/instrumentation reference-data-for-calibration-and-tools/astronomical-catalogs/atmo-2020-atmosphere-models)
+**Exemple de données de type catalogue d'une étoile** : [Source](https://www.stsci.edu/hst/instrumentation/reference-data-for-calibration-and-tools/astronomical-catalogs/atmo-2020-atmosphere-models)
