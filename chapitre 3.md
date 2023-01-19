@@ -12,6 +12,7 @@ Les images astronomiques montrent généralement une région du ciel nocturne. O
 ## **Données de spectres (Spectra)** :
 Des spectres simples nous montrent la façon dont l'énergie de la lumière émise par un objet se répartit entre les différentes longueurs d'onde possibles. Ces spectres simples sont unidimensionnels : pour chaque valeur de longueur d'onde, nous connaissons la contribution de la lumière de cette région de longueur d'onde particulière.
 ![](galaxy_spectra.png)
+
 **Exemple de données de spectres d'une galaxie** : [Source](https://www.atnf.csiro.au/outreach/education/senior/astrophysics/spectra_astro_types.html)
 
 ## **Données cubique (Data Cube)**:
