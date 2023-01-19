@@ -1,6 +1,7 @@
 # 6- Perspectives de Big data en Astronomie
 Le Big Data joue un rôle de plus en plus important en astronomie. Les vastes quantités de données générées par les télescopes et autres instruments astronomiques permettent aux scientifiques de faire de nouvelles découvertes et d'étudier l'univers avec des détails sans précédent. Par exemple, le « Large Synoptic Survey Telescope » (LSST) devrait générer plus de 15 térabytes de données par nuit, qui seront utilisées pour étudier la matière noire (Dark matter), l'énergie noire (Dark energy) et la structure de l'univers. D'autres télescopes, tels que le télescope spatial James Webb (JWST) et le vaisseau spatial Euclid, généreront également de grandes quantités de données. L'utilisation de techniques de Big Data, telles que l'apprentissage automatique et l'exploration de données, aide les astronomes à analyser et à donner un sens à ces données, menant à de nouvelles idées et découvertes.
 
+
 Le Large Synoptic Survey Telescope (LSST) et le James Webb Space Telescope (JWST) sont de véritables télescopes en cours de construction et vont générer de grandes quantités de données pour la recherche scientifique. L'utilisation des techniques de Big Data, telles que l'apprentissage automatique, en astronomie est également une pratique bien établie dans le domaine, et de nombreux documents de recherche et articles ont été publiés sur le sujet. 
 
 
