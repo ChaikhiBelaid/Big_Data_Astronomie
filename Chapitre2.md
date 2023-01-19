@@ -8,7 +8,6 @@ En parlant de Hadoop, on doit parler nécessairement du modéle de programmation
 Le modèle de programmation MapReduce se compose de deux fonctions principales :<br/>
 - La fonction "Map" : qui traite une paire clé/valeur pour générer un ensemble de paires clé/valeur intermédiaires.
 * La fonction "Reduce" : qui fusionne toutes les valeurs intermédiaires associées à la même clé intermédiaire.<a/>
-
 <br/>
 MapReduce est bien adapté au traitement de grandes quantités de données en parallèle et permet un traitement efficace des données sur des grappes de matériel de base. Cela en fait un choix populaire pour les applications big data, telles que data mining, log processing et l'analyse de données à grande échelle.
 
