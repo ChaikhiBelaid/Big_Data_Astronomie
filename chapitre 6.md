@@ -7,7 +7,6 @@ Le Large Synoptic Survey Telescope (LSST) et le James Webb Space Telescope (JWST
 ## Quelques méthodes qui montrent l’utilisation de Big Data en astronomie :
 
 
-
 1. Classification et identification des objets (Classifying and Identifying Objects) : avec les grandes quantités de données générées par les télescopes, il est difficile pour les astronomes de classer et d'identifier manuellement tous les objets dans les images. Les algorithmes d'apprentissage automatique peuvent être utilisés pour classer et identifier automatiquement des objets, tels que des galaxies, des étoiles et des exoplanètes, ce qui rend le processus plus efficace et plus précis.
 
 2. Analyse des séries chronologiques (Time-series Analysis) : De nombreux phénomènes astronomiques, tels que les supernovae, les étoiles variables (variable stars) et les exoplanètes en transit (transiting exoplanets), varient en luminosité au fil du temps. Les techniques de Big Data peuvent être utilisées pour analyser ces données de séries chronologiques (time-series), offrant de nouvelles perspectives sur ces phénomènes.
