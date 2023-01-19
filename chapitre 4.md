@@ -8,6 +8,18 @@ Un autre aspect important de l'imagerie astronomique est la manipulation de gran
 Le traitement parallèle, le calcul distribué et l'optimisation du code peuvent également être utilisés pour améliorer les performances des algorithmes de traitement d'images. Les techniques d'apprentissage automatique, telles que les réseaux de neurones, peuvent également être utilisées pour classer, détecter et extraire des caractéristiques des images.</br>
 Parmi les autres techniques d'optimisation, citons le tuilage, la pyramide, la division et la conquête, le traitement en place et les approches hybrides. L'optimisation de la mémoire, le tri et le rééchantillonnage peuvent également jouer un rôle dans le processus d'optimisation. Le benchmarking peut être utilisé pour mesurer les performances de différentes stratégies d'optimisation afin de déterminer la meilleure approche pour un problème donné.</br>
 En outre, l'utilisation de matériel spécialisé tel que les FPGA ou les GPU peut accélérer les tâches de traitement d'images, et l'utilisation de l'informatique en nuage peut aider à adapter la puissance de traitement à de grands ensembles de données.</br>
+'optimisation des algorithmes d'imagerie est le processus d'amélioration des performances des algorithmes de traitement d'images pour traiter des données à grande échelle. Certaines stratégies incluent :</br>
+1.	Le traitement parallèle : Utilisation de plusieurs processeurs ou cœurs pour accélérer le traitement des images.</br>
+2.	Le calcul distribué : Diviser l'image en petits morceaux et les traiter sur plusieurs machines.</br>
+3.	Algorithmes approximatifs : Utilisation d'approximations pour accélérer le temps de traitement tout en maintenant un niveau de précision raisonnable.</br>
+4.	Mise en cache : stockage des données fréquemment consultées en mémoire afin de réduire le nombre d'accès au disque.</br>
+5.	Streaming : Traiter les données d'image au fur et à mesure de leur acquisition pour réduire l'utilisation de la mémoire.</br>
+6.	Compression : Réduire la quantité de données à traiter en compressant les images.</br>
+7.	Optimisation du code : Optimiser le code pour mieux utiliser les ressources de l'ordinateur.</br>
+8.	Techniques d'apprentissage automatique : Utilisation d'algorithmes d'apprentissage automatique pour accélérer les tâches de traitement d'images.</br>
+9.	Traitement multi-résolution : Utilisation de différentes résolutions pour la même image afin de réduire la complexité de calcul.</br>
+10.	Accélération matérielle : Utilisation de matériel spécialisé, tel que des FPGA ou des ASIC, pour effectuer des tâches de traitement d'image.</br>
+
 
 
 ## 2. Le traitement des données sur FPGA 
