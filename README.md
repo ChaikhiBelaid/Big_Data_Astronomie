@@ -5,7 +5,9 @@
 - Elghaliya Lekbar
 - Elyazid Boumhaoud
 - Lahcen Allaou
-- Ahmedou salem Chaddi <br/>
+- Ahmedou salem Chaddi 
+- LARACH Mohammed Taha
+<br/>
 
 ## Sommaire
 1. <a href="Introduction.md" target="_blank">Introduction</a>
