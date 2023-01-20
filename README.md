@@ -9,12 +9,11 @@
 
 ## Sommaire
 1. <a href="Introduction.md" target="_blank">Introduction</a>
-2. <a href="chapitre 1.md" target="_blank">Chapitre1</a>
-3. <a href="chapitre 2.md" target="_blank">Chapitre2</a>
-4. <a href="chapitre 3.md" target="_blank">Chapitre3</a>
-5. <a href="chapitre 4.md" target="_blank">Chapitre4</a>
-6. <a href="chapitre 5.md" target="_blank">Chapitre5</a>
-7. <a href="chapitre 6.md" target="_blank">Chapitre6</a>
+2. <a href="chapitre 1.md" target="_blank">Technologies adaptés</a>
+3. <a href="chapitre2.md" target="_blank">Types de données astronomiques</a>
+4. <a href="chapitre 3.md" target="_blank">Applications de big data en astronomie</a>
+5. <a href="chapitre 4.md" target="_blank">Une carte de l'univers</a>
+6. <a href="chapitre 5.md" target="_blank">Perspectives de big data en astronomie</a>
 
 
 
