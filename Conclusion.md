@@ -1,0 +1,8 @@
+# Conclusion:
+
+Nous sommes à l'aube d'une nouvelle ère de l'astronomie liée au Big Data. Une quantité incroyable de données (en téraoctets) est produite par diverses études du ciel en cours, à différentes longueurs d'onde. Ces études produisent divers catalogues d'objets tels que des quasars, des galaxies et des étoiles qui se comptent en milliards et milliards. Ce n'est qu'un début qui ouvre la voie à d'énormes ensembles de données astronomiques à venir. Les études numériques du ciel, les archives et les catalogues créés à partir de ces études sont déjà en route. 
+
+Cette émergence d'énormes ensembles de données astronomiques nous permettra et nous motivera à aborder certains problèmes importants avec une certaine précision, comme la cartographie de l'univers. Les études numériques du ciel, telles que le Sloan Digital Sky Survey, ont utilisé le concept de big data pour permettre la recherche de types d'objets astronomiques très variés et ont conduit à des découvertes surprenantes. Le concept d'observatoire virtuel a également influencé le domaine de l'astronomie, le faisant entrer dans une nouvelle ère d'exploration spatiale.
+
+Le grand succès de l'astronomie est dû à plusieurs raisons. D'importantes sommes d'argent sont investies dans les études du ciel, les observatoires virtuels et les travaux de recherche qui s'y rapportent. Le facteur le plus marquant est la grande collaboration des astronomes qui sont engagés dans ces efforts, ce qui facilite la gestion des données. À long terme, le soutien du gouvernement et de la communauté est fortement attendu. Dans le même temps, il est nécessaire de former la prochaine génération de scientifiques à la gestion des données volumineuses.
+
