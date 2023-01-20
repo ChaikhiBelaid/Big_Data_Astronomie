@@ -1,4 +1,4 @@
-# Big Data Astronomie Project
+# Big Data et Astronomie 
 ## Auteurs : <br/>
 - Chaikhi Belaid
 -  Ahmed Salem AHMED
